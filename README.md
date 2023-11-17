@@ -10,7 +10,11 @@ It was implemented:
      
      Our program runs on port `3000`.
      
-     A `Socket server` has been created on port `5000`. We enter data into the form, it enters your web application, which forwards it further for processing using the socket (UDP protocol) of the Socket server. The Socket server translates the received byte string into a dictionary and saves it in json file data.json in the storage folder.
+     A `Socket server` has been created on port `5000`. We enter data into the form, 
+         it enters your web application, which forwards it further for processing using 
+         the socket (UDP protocol) of the Socket server. The Socket server translates 
+         the received byte string into a dictionary and saves it in json file data.json 
+         in the storage folder.
     
      For our web application, we use one `main.py` file.
      
