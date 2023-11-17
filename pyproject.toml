@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "http-server"
+version = "1.0.0"
+description = "This is a simple http server for saving messages from the user through the shell."
+authors = ["Maksim Nesterovskyi <maxwel842@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
