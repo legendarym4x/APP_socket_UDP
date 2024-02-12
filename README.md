@@ -1,6 +1,6 @@
-## Homework 04
+## Simple Web App with UDP Socket Communication
 
-### In this homework assignment, we created a simple web application with routing for two html pages: index.html and message.html.
+### In this task assignment, we created a simple web application with routing for two html pages: index.html and message.html.
 
 It was implemented:
      
